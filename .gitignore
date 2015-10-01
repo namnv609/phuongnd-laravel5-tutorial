@@ -6,4 +6,3 @@ Homestead.json
 composer.lock
 *.log
 storage/debugbar
-/news
